@@ -1,5 +1,5 @@
 import Billing from "./Billing";
-import Business from "./business";
+import Business from "./Business";
 import Button from "./Button";
 import CardDeal from "./CardDeal";
 import CTA from "./CTA";
